@@ -8,3 +8,5 @@ API endpoints to test:
 5. To register a new user: POST /auth/users/
 6. To login as a user: POST /auth/token/login/ (this endpoint gives you a bearer token)
 7. To logout from a user: POST /auth/token/logout/
+
+If you are unsure about any of these endpoints, please read through the code or check Django/Djoser docs!
