@@ -1,5 +1,7 @@
 # littlelemon
 
+NOTE: Unit tests live in the restaurant/tests.py! Please refer to these when testing. You can run the tests with `python manage.py test`
+
 API endpoints to test:
 1. To view all restaurant bookings: /restaurant/bookings/
 2. To add a table reservation: /restaurant/bookings/tables/
